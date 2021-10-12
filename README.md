@@ -1,2 +1,2 @@
 # Exploring-US-Flights-Data
-Indicative data visualization and machine learning project
+Indicative data visualization and manipulation
