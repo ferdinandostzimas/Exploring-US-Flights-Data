@@ -1,5 +1,5 @@
 # Exploring-US-Flights-Data
-Indicative data visualization and manipulation project based on the assignment authored by AUEB Professor Panos Louridas(Department of Mangement Science and Technology) for the Course of Applied Machine Learning.
+Indicative data visualization and manipulation project with Python based on the assignment authored by AUEB Professor Panos Louridas(Department of Mangement Science and Technology) for the Course of Applied Machine Learning.
 
 The file Exploring-US-Flights-Data.ipynb contains each question of the assignment authored by said professor, followed by each answer authored by myself.
 
